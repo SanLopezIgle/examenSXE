@@ -56,12 +56,12 @@ docker-compose up -d
 http://localhost:8081
 ```
 
-![prestashop](/home/dam2/Imágenes/prestashop.png)
+![prestashop](./Imagenes/prestashop.png)
 
 **- Base de datos enlazados al PhpStorm**
 
 No me funciona la conexión con la base de datos, el error que me da es el que aparece en la imagen que adjunto a continuación:
 
-![phpstorm](/home/dam27Imágenes/php.png)
+![phpstorm](./Imagenes/php.png)
 
-Tenemos que asegurarnos de que la manera en la que nombremos a todo en el archivo **.yml** coincide con como lo nombreros a la hora de crear la conexión con la base de datos
+Tenemos que asegurarnos de que la manera en la que nombremos a todo en el archivo **.yml** coincide con como lo nombremos a la hora de crear la conexión con la base de datos
